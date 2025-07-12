@@ -1,0 +1,898 @@
+{
+  "last_updated": "2025-07-12T14:52:59.979Z",
+  "count": 41,
+  "articles": [
+    {
+      "id": 2078648,
+      "title": "AI Engineer Roadmap",
+      "description": "With GenAI approaching at a rapid rate and everyone trying to find the most optimal ways to implement...",
+      "url": "https://dev.to/roadmapsh/ai-engineer-roadmap-3n8",
+      "published_at": "2024-11-05T11:47:46Z",
+      "reading_time": 3,
+      "author": {
+        "name": "Dan",
+        "username": "grapplingdev",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F338939%2Faa7a24fa-bf45-4d8f-ba87-99e8e6430132.png"
+      },
+      "tags": [
+        "ai",
+        "genai",
+        "openai",
+        "machinelearning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxi66fp3oj0v8o8s2pgjs.png",
+      "source": "dev.to",
+      "saved_at": "2025-04-04T09:57:07Z"
+    },
+    {
+      "id": 2295793,
+      "title": "A Developers Guide to PostgreSQL Extensions",
+      "description": "TL;DR: One of the best things about PostgreSQL is its extensibility. Extensions add extra...",
+      "url": "https://dev.to/tigerdata/postgresql-extensions-what-they-are-and-how-to-use-them-4i76",
+      "published_at": "2025-02-25T13:51:36Z",
+      "reading_time": 2,
+      "author": {
+        "name": "Team Timescale",
+        "username": "timescale_dev",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2547418%2F1859b44f-d7f7-47c9-9ca2-082bae60b949.png"
+      },
+      "tags": [
+        "postgres",
+        "database",
+        "productivity",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgsbyv41shp2p71wa5el.png",
+      "source": "dev.to",
+      "saved_at": "2025-03-06T15:08:55Z"
+    },
+    {
+      "id": 2117140,
+      "title": "9 GitHub Repositories to Find a Job or Internships in Tech for 2025 📚🔥",
+      "description": "While GitHub is primarily known for version control and hosting code, it also hides some of the best...",
+      "url": "https://dev.to/madza/9-github-repositories-to-find-a-job-or-internships-in-tech-for-2025-194m",
+      "published_at": "2024-11-22T16:11:15Z",
+      "reading_time": 4,
+      "author": {
+        "name": "Madza",
+        "username": "madza",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F159737%2F10b8de99-9383-42da-80e2-851af40d5d0f.png"
+      },
+      "tags": [
+        "webdev",
+        "coding",
+        "github",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fch2xegmrbks22hglu7of.png",
+      "source": "dev.to",
+      "saved_at": "2025-01-01T01:13:25Z"
+    },
+    {
+      "id": 2052034,
+      "title": "11 Practical Ways to Bring Side Income as a Developer 💰",
+      "description": "It’s always smart not to rely on just one source of income.  Bringing in side income might seem tough...",
+      "url": "https://dev.to/opire/11-practical-ways-to-bring-side-income-as-a-developer-5apm",
+      "published_at": "2024-11-20T11:29:20Z",
+      "reading_time": 11,
+      "author": {
+        "name": "Anmol Baranwal",
+        "username": "anmolbaranwal",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F950976%2F69363f37-b7c5-4f1e-a2fe-29b4e4e33e92.png"
+      },
+      "tags": [
+        "programming",
+        "beginners",
+        "opensource",
+        "productivity"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxoc04ip5hugwe7ecadvu.png",
+      "source": "dev.to",
+      "saved_at": "2024-12-30T15:56:52Z"
+    },
+    {
+      "id": 2151621,
+      "title": "I Tried Every Hot Programming Language",
+      "description": "In this post, I'll make an attempt to compare GoLang, Zig, and Rust. And why Rust wins this...",
+      "url": "https://dev.to/gohashira/i-tried-every-hot-programming-language-514f",
+      "published_at": "2024-12-13T05:11:24Z",
+      "reading_time": 5,
+      "author": {
+        "name": "gohashira",
+        "username": "gohashira",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F714377%2F82da1584-a9fe-480b-a583-13907104c9d0.jpeg"
+      },
+      "tags": [
+        "discuss",
+        "rust",
+        "go",
+        "learning"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnl0pbkv75lkn3583w0jy.png",
+      "source": "dev.to",
+      "saved_at": "2024-12-15T19:18:02Z"
+    },
+    {
+      "id": 2068654,
+      "title": "🔥 200 Project Ideas from Beginner to Advanced with Open Source Contributions 🚀",
+      "description": "Introduction   Are you ready to dive into the world of coding with real-world projects?...",
+      "url": "https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a",
+      "published_at": "2024-11-09T19:09:58Z",
+      "reading_time": 70,
+      "author": {
+        "name": "Kishan Sheth",
+        "username": "kishansheth",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F521478%2F3f08902a-35a8-46df-aaed-3167a30a1585.jpeg"
+      },
+      "tags": [
+        "webdev",
+        "productivity",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc44047vexn0tpo5ivc6l.png",
+      "source": "dev.to",
+      "saved_at": "2024-11-15T07:25:14Z"
+    },
+    {
+      "id": 2070480,
+      "title": "I love Rust/Tauri & Svelte",
+      "description": "Hey DEV community! 👋 I recently built a native task manager for macOS that brings the htop experience...",
+      "url": "https://dev.to/abdenasser/i-love-rusttauri-svelte-5bae",
+      "published_at": "2024-11-01T13:41:35Z",
+      "reading_time": 2,
+      "author": {
+        "name": "Nasser El Idrissi ",
+        "username": "abdenasser",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F693109%2Fb030f36b-1537-406b-8d86-9d4cc33d11be.jpeg"
+      },
+      "tags": [
+        "tauri",
+        "rust",
+        "svelte",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzvipnyla8r0kkifoii10.jpg",
+      "source": "dev.to",
+      "saved_at": "2024-11-06T03:05:21Z"
+    },
+    {
+      "id": 1865858,
+      "title": "15 amazing things you can do with simple JavaScript 🤯",
+      "description": "I love JavaScript because it's full of surprises and is used for so many amazing things.   Many...",
+      "url": "https://dev.to/anmolbaranwal/15-amazing-things-you-can-do-with-simple-javascript-g88",
+      "published_at": "2024-07-01T10:55:38Z",
+      "reading_time": 8,
+      "author": {
+        "name": "Anmol Baranwal",
+        "username": "anmolbaranwal",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F950976%2F69363f37-b7c5-4f1e-a2fe-29b4e4e33e92.png"
+      },
+      "tags": [
+        "javascript",
+        "beginners",
+        "programming",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F445qmtczsqgd4536xqg3.png",
+      "source": "dev.to",
+      "saved_at": "2024-10-29T07:28:38Z"
+    },
+    {
+      "id": 2046951,
+      "title": "Boring Finance: Fancy Record Keeping - Call for all the Open-Source Contributors",
+      "description": "Introduction:   Hey there, finance and open source enthusiasts! Ready for a dose of \"boring\"...",
+      "url": "https://dev.to/gracerasaily780/boring-finance-fancy-record-keeping-call-for-all-the-open-source-contributors-3316",
+      "published_at": "2024-10-21T08:11:02Z",
+      "reading_time": 3,
+      "author": {
+        "name": "Grace Rasaily",
+        "username": "gracerasaily780",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1870330%2Fef55511f-1e16-43b8-acd7-5936dba1ce98.png"
+      },
+      "tags": [
+        "webdev",
+        "javascript",
+        "opensource",
+        "bunjs"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fufjr6acx8k9kwlwmff50.png",
+      "source": "dev.to",
+      "saved_at": "2024-10-28T18:08:34Z"
+    },
+    {
+      "id": 2002795,
+      "title": "Optimizing React Apps with React 18 and Below ⚛️⚡",
+      "description": "Table of Contents    Introduction Reasons for Optimization and Solutions Understanding...",
+      "url": "https://dev.to/ei-abdullah/optimizing-react-apps-with-react-18-and-below-4g3d",
+      "published_at": "2024-09-16T15:32:18Z",
+      "reading_time": 7,
+      "author": {
+        "name": "Abdullah Zafar",
+        "username": "ei-abdullah",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1088076%2F951280fc-7877-4b9c-a9a4-1f1469584ec6.jpg"
+      },
+      "tags": [
+        "webdev",
+        "react",
+        "performance",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u92qk647o1s38g641z9.png",
+      "source": "dev.to",
+      "saved_at": "2024-10-27T16:28:46Z"
+    },
+    {
+      "id": 1842665,
+      "title": "Mastering Relational Database Design: A Comprehensive Guide",
+      "description": "Introduction   In today's data-driven world, storing and managing information efficiently is...",
+      "url": "https://dev.to/louaiboumediene/mastering-relational-database-design-a-comprehensive-guide-3jh8",
+      "published_at": "2024-05-06T21:49:16Z",
+      "reading_time": 20,
+      "author": {
+        "name": "Louai Boumediene",
+        "username": "louaiboumediene",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1408863%2Ffc477e45-ed93-48de-bc86-d8b3fc5f13b1.jpg"
+      },
+      "tags": [
+        "webdev",
+        "learning",
+        "database",
+        "backend"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fflhx2vzhncns13q71pxg.png",
+      "source": "dev.to",
+      "saved_at": "2024-10-26T13:38:24Z"
+    },
+    {
+      "id": 260789,
+      "title": "A CheatSheet of 128 CheatSheets for Developers",
+      "description": "I compiled a list of the (in my opinion) best Cheatsheets and tutorials for some of the top...",
+      "url": "https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m",
+      "published_at": "2020-02-25T12:36:45Z",
+      "reading_time": 5,
+      "author": {
+        "name": "Andreas",
+        "username": "devmount",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F31184%2Fa0a1eef3-2293-4154-814c-995d552374d7.png"
+      },
+      "tags": [
+        "webdev",
+        "productivity",
+        "beginners",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fo6q0x50p75k26v0gbg15.gif",
+      "source": "dev.to",
+      "saved_at": "2024-10-18T09:46:05Z"
+    },
+    {
+      "id": 2009954,
+      "title": "How to Build Your Online Presence as a Developer",
+      "description": "When entering a career, you have to find something that makes you competitive—something that makes...",
+      "url": "https://dev.to/koladev/how-to-build-your-online-presence-as-a-developer-5ig",
+      "published_at": "2024-09-22T13:00:00Z",
+      "reading_time": 9,
+      "author": {
+        "name": "Mangabo Kolawole",
+        "username": "koladev",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F282902%2F5069e55c-cd15-40df-9b7d-11c1b1d10d4b.jpg"
+      },
+      "tags": [
+        "beginners",
+        "productivity",
+        "career",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F942nvuiqmkf6bkwdakxg.png",
+      "source": "dev.to",
+      "saved_at": "2024-09-27T16:07:29Z"
+    },
+    {
+      "id": 2004686,
+      "title": "How JS works behind the scenes?",
+      "description": "How JavaScript Works   JavaScript operates in a single-threaded environment, meaning it...",
+      "url": "https://dev.to/tanishparashar/how-js-works-behind-the-scenes-1knn",
+      "published_at": "2024-09-18T05:04:52Z",
+      "reading_time": 2,
+      "author": {
+        "name": "tanishparashar",
+        "username": "tanishparashar",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2036781%2Fd2e50518-f87d-4a33-8e57-b435c07e8946.jpg"
+      },
+      "tags": [
+        "javascript",
+        "beginners",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd5xfm8zcpdo9e1lv6h9z.png",
+      "source": "dev.to",
+      "saved_at": "2024-09-23T16:24:15Z"
+    },
+    {
+      "id": 1614868,
+      "title": "🔥 A next-generation CLI tool for building amazing web apps in Go using htmx & hyperscript",
+      "description": "Introduction   Hey, my DEV friends! 👋   It's been a while since I've been here, hasn't it?...",
+      "url": "https://dev.to/koddr/a-next-generation-cli-tool-for-building-amazing-web-apps-in-go-using-htmx-hyperscript-336d",
+      "published_at": "2023-09-30T11:11:57Z",
+      "reading_time": 8,
+      "author": {
+        "name": "Vic Shóstak",
+        "username": "koddr",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F309030%2F2ae4e868-fb82-4b7a-8204-b2dc51c852ad.jpg"
+      },
+      "tags": [
+        "go",
+        "htmx",
+        "beginners",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F17nckciphtp8adnw178s.png",
+      "source": "dev.to",
+      "saved_at": "2024-07-30T14:51:44Z"
+    },
+    {
+      "id": 1809513,
+      "title": "Join us for the Cloudflare AI Challenge: $3,000 in Prizes!",
+      "description": "We are so excited to be partnering with Cloudflare for the second DEV Challenge — with cash prizes...",
+      "url": "https://dev.to/devteam/join-us-for-the-cloudflare-ai-challenge-3000-in-prizes-5f99",
+      "published_at": "2024-04-03T17:21:07Z",
+      "reading_time": 4,
+      "author": {
+        "name": "dev.to staff",
+        "username": "thepracticaldev",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3%2F13d3b32a-d381-4549-b95e-ec665768ce8f.png"
+      },
+      "tags": [
+        "cloudflarechallenge",
+        "devchallenge",
+        "ai",
+        "serverless"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn59ze0ihggwhx662h3sj.jpg",
+      "source": "dev.to",
+      "saved_at": "2024-04-09T05:33:27Z"
+    },
+    {
+      "id": 1387606,
+      "title": "How to manage multiple GitHub accounts on one computer with SSH keys",
+      "description": "In our journey through the world of programming it is very common to have to create more than one...",
+      "url": "https://dev.to/gniches/how-to-manage-multiple-github-accounts-on-one-computer-with-ssh-keys-57j5",
+      "published_at": "2023-03-10T16:31:32Z",
+      "reading_time": 6,
+      "author": {
+        "name": "Guilherme Niches",
+        "username": "gniches",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F968216%2F1b8b3305-0e52-4760-86e4-00ef4ebcbfc0.jpeg"
+      },
+      "tags": [
+        "tutorial",
+        "beginners",
+        "github",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh13py6nvusyxlajng26k.jpg",
+      "source": "dev.to",
+      "saved_at": "2024-04-02T18:16:14Z"
+    },
+    {
+      "id": 1706474,
+      "title": "Rust 🦀: Why JS devs are switching to it?",
+      "description": "Are you a JavaScript or TypeScript developer curious about the programming language Rust 🦀?   🤔 Well,...",
+      "url": "https://dev.to/codezera/rust-a-comprehensive-guide-for-javascript-developers-55jm",
+      "published_at": "2023-12-24T16:45:32Z",
+      "reading_time": 3,
+      "author": {
+        "name": "CodeZera",
+        "username": "codezera",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1159346%2F77327beb-f306-4ec3-a9c5-4b27908d860f.jpg"
+      },
+      "tags": [
+        "javascript",
+        "rust",
+        "webdev",
+        "programming"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo2nqlj95xa78o17ugn5y.jpeg",
+      "source": "dev.to",
+      "saved_at": "2023-12-28T06:10:35Z"
+    },
+    {
+      "id": 1706650,
+      "title": "Sharing a state between windows without a server",
+      "description": "Recently, there was a gif trending on social networks displaying an amazing piece of art made by...",
+      "url": "https://dev.to/notachraf/sharing-a-state-between-windows-without-a-serve-23an",
+      "published_at": "2023-12-23T14:47:52Z",
+      "reading_time": 7,
+      "author": {
+        "name": "notachraf",
+        "username": "notachraf",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1117759%2Fce72aa52-dc3f-46cb-a948-2a77a6e90f27.png"
+      },
+      "tags": [
+        "webdev",
+        "javascript",
+        "programming",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8skuyne3l6gum3eud20z.gif",
+      "source": "dev.to",
+      "saved_at": "2023-12-26T12:03:44Z"
+    },
+    {
+      "id": 1672872,
+      "title": "We Raised $6 Million for Our Open Source Startup",
+      "description": "There are few things harder than making open source development sustainable as a full-time career...",
+      "url": "https://dev.to/bashbunni/we-raised-6-million-for-our-open-source-startup-mab",
+      "published_at": "2023-11-20T20:39:01Z",
+      "reading_time": 4,
+      "author": {
+        "name": "bashbunni",
+        "username": "bashbunni",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F566104%2F667a3f4f-21dc-40f9-af02-351afe093f6d.jpg"
+      },
+      "tags": [
+        "startup",
+        "opensource",
+        "career",
+        "news"
+      ],
+      "cover_image": null,
+      "source": "dev.to",
+      "saved_at": "2023-11-29T07:30:11Z"
+    },
+    {
+      "id": 1365260,
+      "title": "Building a minimal Linux OS from source code 🏗",
+      "description": "In the modern world, we are surrounded by a huge number of electronic devices of varying degrees of...",
+      "url": "https://dev.to/mariamarsh/building-a-minimal-linux-os-from-source-code-i1",
+      "published_at": "2023-02-15T16:05:18Z",
+      "reading_time": 12,
+      "author": {
+        "name": "Maria 🍦 Marshmallow",
+        "username": "mariamarsh",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F913211%2Fdda94e3e-b52b-4369-a253-af284fd699a2.jpg"
+      },
+      "tags": [
+        "playlist"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbu1mwacs8dpher1yvryz.jpg",
+      "source": "dev.to",
+      "saved_at": "2023-02-18T18:02:47Z"
+    },
+    {
+      "id": 937922,
+      "title": "How I received 4 salary raises in 2 years as a Software Engineer",
+      "description": "The story on how I received 4 salary raises in 2 years of QuintoAndar as a Software Engineer",
+      "url": "https://dev.to/teekay/how-i-received-4-salary-raises-in-2-years-as-a-software-engineer-110m",
+      "published_at": "2021-12-27T21:32:23Z",
+      "reading_time": 20,
+      "author": {
+        "name": "TK",
+        "username": "teekay",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F37231%2Fc3161712-2a94-4f73-96e9-06aa305fcc52.jpg"
+      },
+      "tags": [
+        "javascript",
+        "react",
+        "career",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fwww.iamtk.co%2Fhow-i-received-4-salary-raises-in-2-years-of-quintoandar-as-a-software-engineer%2Fcover.jpeg",
+      "source": "dev.to",
+      "saved_at": "2021-12-29T05:57:59Z"
+    },
+    {
+      "id": 937764,
+      "title": "Typescript - beyond the basics",
+      "description": "Intro   This blog post is for you if you have found yourself like this     This is not a...",
+      "url": "https://dev.to/jarvispact/typescript-beyond-the-basics-2ap0",
+      "published_at": "2021-12-27T18:09:29Z",
+      "reading_time": 12,
+      "author": {
+        "name": "jarvispact",
+        "username": "jarvispact",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F681707%2F834c0c40-7347-4296-9571-fc709e5101b6.jpg"
+      },
+      "tags": [
+        "typescript",
+        "javascript",
+        "beginners",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiz1f31v8880hpsq1glvq.png",
+      "source": "dev.to",
+      "saved_at": "2021-12-29T05:35:28Z"
+    },
+    {
+      "id": 928126,
+      "title": "9 Smart Ways To Stand Out As A Developer In A World Full Of Coders",
+      "description": "It is easier now than ever to become a software developer.   Attracted by promises of 150ks salaries,...",
+      "url": "https://dev.to/dragosnedelcu/9-smart-ways-to-stand-out-as-a-developer-in-a-world-full-of-coders-2b81",
+      "published_at": "2021-12-16T13:54:19Z",
+      "reading_time": 13,
+      "author": {
+        "name": "Dragos Nedelcu",
+        "username": "dragosnedelcu",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F195735%2Fa909de29-9bc7-4027-9420-60a375cffa4d.jpg"
+      },
+      "tags": [
+        "webdev",
+        "programming",
+        "softwaredevelopment",
+        "career"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3snx49cfoll0ck3dthk6.png",
+      "source": "dev.to",
+      "saved_at": "2021-12-20T11:04:39Z"
+    },
+    {
+      "id": 917288,
+      "title": "5 GitHub Repositories for learning developers...",
+      "description": "For programmers and budding developers, GitHub is always the first choice to explore and learn new...",
+      "url": "https://dev.to/crater90/5-github-repositories-for-learning-developers-4kn6",
+      "published_at": "2021-12-04T10:44:36Z",
+      "reading_time": 2,
+      "author": {
+        "name": "crater90",
+        "username": "crater90",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F767876%2F24a867ec-042c-4f56-ae12-9f1685d75293.png"
+      },
+      "tags": [
+        "webdev",
+        "javascript",
+        "html",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbnt6je65qcewj68n48w.jpg",
+      "source": "dev.to",
+      "saved_at": "2021-12-05T16:24:32Z"
+    },
+    {
+      "id": 841854,
+      "title": "Building A TCP Bridger Server in Go - Part 1",
+      "description": "What is going on?!   I was experimenting on how to transfer data between two clients using a...",
+      "url": "https://dev.to/poolad/building-a-tcp-bridger-server-in-go-part-1-2735",
+      "published_at": "2021-12-05T09:28:03Z",
+      "reading_time": 5,
+      "author": {
+        "name": "MJ Pooladkhay",
+        "username": "poolad",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F503346%2Ffdccd746-2f93-4410-90c9-325335af9642.jpeg"
+      },
+      "tags": [
+        "go",
+        "tcp",
+        "network",
+        "io"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frdeg0afm9zy8579c2gn0.png",
+      "source": "dev.to",
+      "saved_at": "2021-12-05T09:44:58Z"
+    },
+    {
+      "id": 915554,
+      "title": "What are database indexes?",
+      "description": "How SQL queries work   SQL queries are used to retrieve data from a database. We use the...",
+      "url": "https://dev.to/abh1navv/what-are-database-indexes-pb6",
+      "published_at": "2021-12-02T14:03:49Z",
+      "reading_time": 5,
+      "author": {
+        "name": "Abhinav Pandey",
+        "username": "abh1navv",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F440730%2Ff0fc3149-bd2f-4450-99bb-39bdc8c95824.jpg"
+      },
+      "tags": [
+        "sql",
+        "programming",
+        "beginners",
+        "database"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foan2eom5re52ikhleard.png",
+      "source": "dev.to",
+      "saved_at": "2021-12-05T09:33:54Z"
+    },
+    {
+      "id": 904201,
+      "title": "Different ways for User Authentication & Authorization with NodeJS Part - 1",
+      "description": "First let us get over with the debate of Authentication vs Authorization.          ...",
+      "url": "https://dev.to/lavig10/different-ways-for-user-authentication-with-nodejs-1odj",
+      "published_at": "2021-11-20T20:15:09Z",
+      "reading_time": 4,
+      "author": {
+        "name": "Lavish Goyal",
+        "username": "lavig10",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F682691%2F7f2cae13-60a3-4bb1-a735-5e13a0a61b1b.jpg"
+      },
+      "tags": [
+        "webdev",
+        "javascript",
+        "beginners",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjs6khodormvc3chqjd71.jpg",
+      "source": "dev.to",
+      "saved_at": "2021-11-22T05:26:27Z"
+    },
+    {
+      "id": 895610,
+      "title": "Rust from the beginning, your first program",
+      "description": "In this first part on Rust we'll cover why Rust and how to build your first program.",
+      "url": "https://dev.to/azure/rust-from-the-beginning-your-first-program-30cp",
+      "published_at": "2021-11-18T19:27:55Z",
+      "reading_time": 3,
+      "author": {
+        "name": "Chris Noring",
+        "username": "softchris",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F138723%2F76116967-2b0e-456c-8430-85493e2174aa.jpeg"
+      },
+      "tags": [
+        "rust",
+        "programming",
+        "beginners",
+        "tutorial"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa84iqfmybmqpm8jn4bob.jpg",
+      "source": "dev.to",
+      "saved_at": "2021-11-21T07:02:55Z"
+    },
+    {
+      "id": 903764,
+      "title": "Top 10 Sites to find Remote Developer Jobs",
+      "description": "Everyone, it's Nomadev back with another tech blog. The top 10 platforms where you can begin your...",
+      "url": "https://dev.to/thenomadevel/top-10-websites-to-find-remote-jobs-f7i",
+      "published_at": "2021-11-20T08:12:52Z",
+      "reading_time": 5,
+      "author": {
+        "name": "Nomadev",
+        "username": "thenomadevel",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F746775%2F31f80a29-e4d4-475b-9cd6-557690ca7e01.jpg"
+      },
+      "tags": [
+        "javascript",
+        "python",
+        "webdev",
+        "opensource"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnznmmpmf7fbcnuxbtnfo.jpg",
+      "source": "dev.to",
+      "saved_at": "2021-11-21T07:02:03Z"
+    },
+    {
+      "id": 893601,
+      "title": "Understanding Generics in TypeScript",
+      "description": "Quick note! If you'd like to experience this post interactively, go to...",
+      "url": "https://dev.to/plondon/understanding-generics-in-typescript-2hfh",
+      "published_at": "2021-11-10T01:15:04Z",
+      "reading_time": 3,
+      "author": {
+        "name": "Philip London",
+        "username": "plondon",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F720475%2Fac9b3108-2ea0-481a-9ebe-2e21ab9b0763.jpeg"
+      },
+      "tags": [
+        "typescript",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnsfr7wgah882ap44bycd.png",
+      "source": "dev.to",
+      "saved_at": "2021-11-16T07:41:11Z"
+    },
+    {
+      "id": 890528,
+      "title": "CodeSandbox Black, the best VSCode theme ever!",
+      "description": "Designed in detail based on CodeSandbox, hope you enjoy it! Downloaded by over 20,000 developers...",
+      "url": "https://dev.to/ziterz/codesandbox-black-the-best-vscode-theme-ever-3bdf",
+      "published_at": "2021-11-06T19:13:16Z",
+      "reading_time": 1,
+      "author": {
+        "name": "Ziady Mubaraq",
+        "username": "ziterz",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F610164%2Fa49607ba-7f4b-487d-98ba-8ea0fc01dbfc.jpeg"
+      },
+      "tags": [
+        "programming",
+        "vscode",
+        "themes",
+        "coding"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2piim3u1jto5pb122hce.png",
+      "source": "dev.to",
+      "saved_at": "2021-11-07T15:50:30Z"
+    },
+    {
+      "id": 852911,
+      "title": "Node.js & Deno Comparison",
+      "description": "So what is Deno?   Deno is JavaScript , typescript runtime like node.js but it can run...",
+      "url": "https://dev.to/shreyanshsheth/node-js-deno-comparison-1jhe",
+      "published_at": "2021-10-05T20:55:53Z",
+      "reading_time": 2,
+      "author": {
+        "name": "Shreyansh sheth",
+        "username": "shreyanshsheth",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F717003%2F4d5f4cd3-8fb2-4398-b8fe-ace8ca9683a5.jpg"
+      },
+      "tags": [
+        "javascript",
+        "deno",
+        "beginners"
+      ],
+      "cover_image": null,
+      "source": "dev.to",
+      "saved_at": "2021-11-01T17:58:24Z"
+    },
+    {
+      "id": 879461,
+      "title": "Top reasons to build an app based on microservices in Node.js",
+      "description": "Take any popular web project and there is a good chance it has been built with Node.js. This...",
+      "url": "https://dev.to/forestadmin/top-reasons-to-build-an-app-based-on-microservices-in-nodejs-1ngb",
+      "published_at": "2021-10-28T08:35:44Z",
+      "reading_time": 5,
+      "author": {
+        "name": "Monika Ambrozowicz",
+        "username": "monikaambrozowicz",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F670765%2F94a8c971-e769-4448-8689-e080d71a590d.jpg"
+      },
+      "tags": [
+        "node",
+        "webdev",
+        "microservices",
+        "javascript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63jwgn5t86hl89finozs.png",
+      "source": "dev.to",
+      "saved_at": "2021-10-30T09:35:25Z"
+    },
+    {
+      "id": 874464,
+      "title": "Authentication and Authorization with JWTs in Node && Express.js",
+      "description": "In this tutorial, we'll learn how to build an authentication system for a Nodejs &amp; Express...",
+      "url": "https://dev.to/koladev/authentication-and-authorization-with-jwts-in-node-expressjs-5a9a",
+      "published_at": "2021-10-24T16:32:05Z",
+      "reading_time": 7,
+      "author": {
+        "name": "Mangabo Kolawole",
+        "username": "koladev",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F282902%2F5069e55c-cd15-40df-9b7d-11c1b1d10d4b.jpg"
+      },
+      "tags": [
+        "javascript",
+        "node",
+        "express",
+        "typescript"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fimg.bloggu.io%2Fipfs%2Fbafkreigl2ul6mu37kaopvk7teqzxif4alfqnjbo6cuixmy5zv6nleklt2i",
+      "source": "dev.to",
+      "saved_at": "2021-10-26T12:44:06Z"
+    },
+    {
+      "id": 847163,
+      "title": "My Hacktoberfest Repos",
+      "description": "Hello everyone! 👋🏻   Hacktoberfest is here! I have a couple of repos that I am going to be...",
+      "url": "https://dev.to/cdthomp1/my-hacktoberfest-repos-2121",
+      "published_at": "2021-10-01T04:10:09Z",
+      "reading_time": 1,
+      "author": {
+        "name": "Cameron Thompson",
+        "username": "cdthomp1",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F313006%2Fa760a47a-6c95-43ec-88c4-de9246b2ba29.jpeg"
+      },
+      "tags": [
+        "hacktoberfest",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq4ye2jsrnn5rvvalbccr.png",
+      "source": "dev.to",
+      "saved_at": "2021-10-04T06:52:30Z"
+    },
+    {
+      "id": 839170,
+      "title": "Open Source Programs for Students to participate",
+      "description": "Open Source Software is one of the most beautiful creations of humankind. It not only powers the...",
+      "url": "https://dev.to/pb/open-source-programs-for-students-to-participate-55gm",
+      "published_at": "2021-09-26T15:37:26Z",
+      "reading_time": 4,
+      "author": {
+        "name": "Pawel",
+        "username": "pb",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F618537%2F3cd782cd-1a3a-4926-9eb6-1e55fba23a61.jpg"
+      },
+      "tags": [
+        "beginners",
+        "opensource",
+        "webdev",
+        "codenewbie"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fegxj3txtl1sp71806fuu.jpg",
+      "source": "dev.to",
+      "saved_at": "2021-09-27T16:33:08Z"
+    },
+    {
+      "id": 808457,
+      "title": "3 Reasons to Upgrade Git For The First Time Ever",
+      "description": "Relatively new Git features that actually have me excited",
+      "url": "https://dev.to/swyx/3-reasons-to-upgrade-git-2bj3",
+      "published_at": "2021-08-30T22:29:07Z",
+      "reading_time": 2,
+      "author": {
+        "name": "swyx",
+        "username": "swyx",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F47766%2F26fbd2bf-c352-447c-9b4f-f66652dc4899.jpg"
+      },
+      "tags": [
+        "git",
+        "tips"
+      ],
+      "cover_image": null,
+      "source": "dev.to",
+      "saved_at": "2021-09-01T11:13:20Z"
+    },
+    {
+      "id": 791879,
+      "title": "How to Create a Video Player in React",
+      "description": "One of the things that interested me most recently is creating a fully customized video player....",
+      "url": "https://dev.to/franciscomendes10866/how-to-create-a-video-player-in-react-40jj",
+      "published_at": "2021-08-14T21:22:09Z",
+      "reading_time": 10,
+      "author": {
+        "name": "Francisco Mendes",
+        "username": "franciscomendes10866",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F334620%2Fb47af8eb-b7a0-4a31-bec8-c17dfd1fde55.jpg"
+      },
+      "tags": [
+        "react",
+        "node",
+        "javascript",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2nrpnzbwl86x43un0bqf.jpg",
+      "source": "dev.to",
+      "saved_at": "2021-08-16T05:23:40Z"
+    },
+    {
+      "id": 792425,
+      "title": "No More ../../../ Import in React",
+      "description": "Steps to configure absolute Import in Create React App without any third-party packages.  Are you...",
+      "url": "https://dev.to/nilanth/no-more-import-in-react-2mbo",
+      "published_at": "2021-08-15T12:32:56Z",
+      "reading_time": 3,
+      "author": {
+        "name": "Nilanth",
+        "username": "nilanth",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F561035%2Ff0dd96a3-bc20-4bb3-8717-03125438c6ab.jpeg"
+      },
+      "tags": [
+        "react",
+        "javascript",
+        "webdev",
+        "beginners"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiey6fxonkgrenjr8yxi6.png",
+      "source": "dev.to",
+      "saved_at": "2021-08-16T04:26:17Z"
+    },
+    {
+      "id": 765980,
+      "title": "6 useful frontend techniques that you may not know about",
+      "description": "A small selection of little-known techniques for HTML, CSS, and JavaScript.   The frontend is the...",
+      "url": "https://dev.to/ra1nbow1/6-useful-frontend-techniques-that-you-may-not-know-about-47hd",
+      "published_at": "2021-07-19T20:24:32Z",
+      "reading_time": 3,
+      "author": {
+        "name": "Matvey Romanov",
+        "username": "ra1nbow1",
+        "profile_image": "https://media2.dev.to/dynamic/image/width=90,height=90,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F431876%2F769a0b9f-63b1-401f-8342-7823141ff917.gif"
+      },
+      "tags": [
+        "webdev",
+        "javascript",
+        "programming",
+        "html"
+      ],
+      "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvuc27xwh3cip9r0hq9as.png",
+      "source": "dev.to",
+      "saved_at": "2021-07-20T04:59:57Z"
+    }
+  ]
+}
