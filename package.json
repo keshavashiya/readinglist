@@ -9,7 +9,7 @@
     "fetch:devto": "node scripts/fetch-devto.js",
     "fetch:dailydev": "node scripts/fetch-dailydev.js",
     "build": "cd frontend && npm run build",
-    "deploy": "npm run build && gh-pages -d frontend/dist",
+    "deploy": "npm run build && gh-pages -d frontend/dist -r https://$GH_TOKEN@github.com/keshavashiya/readinglist.git",
     "predeploy": "npm run build"
   },
   "dependencies": {
