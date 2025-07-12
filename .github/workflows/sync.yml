@@ -12,6 +12,9 @@ on:
       - 'scripts/**'
       - 'config.json'
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
