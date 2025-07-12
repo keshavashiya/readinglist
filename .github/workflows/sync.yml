@@ -83,6 +83,11 @@ jobs:
         npm i
         cd frontend && npm i
 
+    - name: Set Git identity
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+
     - name: Build and deploy to GitHub Pages
       run: npm run deploy
       env:
