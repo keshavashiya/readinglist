@@ -88,9 +88,14 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
 
-    - name: Build and deploy to GitHub Pages
+    - name: Build frontend
+      run: npm run build
+
+    - name: Copy data to frontend/dist
+      run: cp -r data frontend/dist/
+
+    - name: Deploy to GitHub Pages
       run: |
-        npm run build
         git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/keshavashiya/readinglist.git
         npx gh-pages -d frontend/dist -u "github-actions-bot <support+actions@github.com>"
       env:
