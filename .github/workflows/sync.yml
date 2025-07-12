@@ -89,7 +89,8 @@ jobs:
         git config --global user.name "GitHub Action"
 
     - name: Build and deploy to GitHub Pages
-      run: npm run deploy
+      run: |
+        npm run build
+        npx gh-pages -d frontend/dist -r https://$GH_TOKEN@github.com/keshavashiya/readinglist.git
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
