@@ -29,7 +29,7 @@ A public reading list that automatically syncs bookmarks and articles from popul
 ## Data Sources
 
 ### dev.to Reading List
-- Uses the [Forem API](https://developers.forem.com/api/v1#tag/videos/operation/videos)
+- Go to [dev.to/settings/account](https://dev.to/settings/account)
 - Requires API key from your dev.to account
 - Fetches articles from your reading list
 
