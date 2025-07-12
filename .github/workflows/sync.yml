@@ -33,14 +33,22 @@ jobs:
       run: mkdir -p data
 
     - name: Fetch dev.to reading list
-      if: ${{ secrets.DEVTO_API_KEY }}
-      run: npm run fetch:devto
+      run: |
+        if [ -n "${{ secrets.DEVTO_API_KEY }}" ]; then
+          npm run fetch:devto
+        else
+          echo "DEVTO_API_KEY not set, skipping fetch:devto"
+        fi
       env:
         DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
 
     - name: Fetch daily.dev bookmarks
-      if: ${{ secrets.DAILYDEV_RSS_URL }}
-      run: npm run fetch:dailydev
+      run: |
+        if [ -n "${{ secrets.DAILYDEV_RSS_URL }}" ]; then
+          npm run fetch:dailydev
+        else
+          echo "DAILYDEV_RSS_URL not set, skipping fetch:dailydev"
+        fi
       env:
         DAILYDEV_RSS_URL: ${{ secrets.DAILYDEV_RSS_URL }}
 
