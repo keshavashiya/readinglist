@@ -1,0 +1,26 @@
+{
+  "username": "keshavashiya",
+  "repo": "readinglist",
+  "sources": {
+    "devto": {
+      "enabled": true,
+      "username": "keshavashiya"
+    },
+    "dailydev": {
+      "enabled": true,
+      "rssUrl": ""
+    }
+  },
+  "ui": {
+    "title": "Keshav's Reading List",
+    "description": "Articles and bookmarks I'm reading from dev.to and daily.dev",
+    "theme": {
+      "primary": "#3b82f6",
+      "secondary": "#64748b"
+    }
+  },
+  "sync": {
+    "schedule": "0 8 * * *",
+    "maxArticles": 50
+  }
+}

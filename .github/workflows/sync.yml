@@ -1,0 +1,78 @@
+name: Sync Reading List
+
+on:
+  schedule:
+    # Run daily at 8 AM UTC
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+    # Allow manual trigger
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/**'
+      - 'config.json'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Create data directory
+      run: mkdir -p data
+
+    - name: Fetch dev.to reading list
+      if: ${{ secrets.DEVTO_API_KEY }}
+      run: npm run fetch:devto
+      env:
+        DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+
+    - name: Fetch daily.dev bookmarks
+      if: ${{ secrets.DAILYDEV_RSS_URL }}
+      run: npm run fetch:dailydev
+      env:
+        DAILYDEV_RSS_URL: ${{ secrets.DAILYDEV_RSS_URL }}
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update reading list data [skip ci]"
+        git push
+
+  deploy:
+    needs: sync
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: |
+        npm ci
+        cd frontend && npm ci
+
+    - name: Build and deploy to GitHub Pages
+      run: npm run deploy
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
