@@ -55,14 +55,6 @@ jobs:
       env:
         DAILYDEV_RSS_URL: ${{ secrets.DAILYDEV_RSS_URL }}
 
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add data/
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update reading list data [skip i]"
-        git push
-
   deploy:
     needs: sync
     runs-on: ubuntu-latest
@@ -80,8 +72,8 @@ jobs:
 
     - name: Install dependencies
       run: |
-        npm i
-        cd frontend && npm i
+        npm ci
+        cd frontend && npm ci
 
     - name: Set Git identity
       run: |
