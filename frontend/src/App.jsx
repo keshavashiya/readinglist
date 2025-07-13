@@ -21,9 +21,10 @@ function App() {
       setLoading(true)
       const isDevelopment = import.meta.env.DEV
       const basePath = isDevelopment ? '' : '/readinglist'
+      const timestamp = new Date().getTime() // Cache busting
       const [devtoData, dailydevData] = await Promise.allSettled([
-        fetch(`${basePath}/data/devto.json`).then(res => res.json()),
-        fetch(`${basePath}/data/dailydev.json`).then(res => res.json())
+        fetch(`${basePath}/data/devto.json?t=${timestamp}`).then(res => res.json()),
+        fetch(`${basePath}/data/dailydev.json?t=${timestamp}`).then(res => res.json())
       ])
       let allArticles = []
       if (devtoData.status === 'fulfilled' && devtoData.value.articles) {
