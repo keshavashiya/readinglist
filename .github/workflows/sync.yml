@@ -84,7 +84,18 @@ jobs:
       run: npm run build
 
     - name: Copy data to frontend/dist
-      run: cp -r data frontend/dist/
+      run: |
+        echo "Current directory: $(pwd)"
+        echo "Data directory contents:"
+        ls -la data/
+        echo "Frontend dist directory contents:"
+        ls -la frontend/dist/ || echo "frontend/dist/ does not exist yet"
+        echo "Copying data to frontend/dist..."
+        cp -rv data/ frontend/dist/
+        echo "After copy - frontend/dist/ contents:"
+        ls -la frontend/dist/
+        echo "Data files in frontend/dist/data/:"
+        ls -la frontend/dist/data/ || echo "No data files found"
 
     - name: Deploy to GitHub Pages
       run: |
