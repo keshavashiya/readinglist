@@ -115,8 +115,8 @@ jobs:
         stat frontend/dist/data/devto.json || echo "devto.json not found in dist"
 
     - name: Deploy to GitHub Pages
-      run: |
-        git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/keshavashiya/readinglist.git
-        npx gh-pages -d frontend/dist -u "github-actions-bot <support+actions@github.com>"
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./frontend/dist
+        force_orphan: true
