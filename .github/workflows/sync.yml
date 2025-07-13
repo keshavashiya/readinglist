@@ -55,6 +55,17 @@ jobs:
       env:
         DAILYDEV_RSS_URL: ${{ secrets.DAILYDEV_RSS_URL }}
 
+    - name: Verify data files were updated
+      run: |
+        echo "=== Verifying data files ==="
+        echo "dailydev.json last_updated:"
+        cat data/dailydev.json | grep "last_updated" || echo "No last_updated found"
+        echo "devto.json last_updated:"
+        cat data/devto.json | grep "last_updated" || echo "No last_updated found"
+        echo "File timestamps:"
+        ls -la data/
+        echo "Current time: $(date -u)"
+
   deploy:
     needs: sync
     runs-on: ubuntu-latest
@@ -88,14 +99,20 @@ jobs:
         echo "Current directory: $(pwd)"
         echo "Data directory contents:"
         ls -la data/
+        echo "Data file timestamps:"
+        stat data/dailydev.json || echo "dailydev.json not found"
+        stat data/devto.json || echo "devto.json not found"
         echo "Frontend dist directory contents:"
         ls -la frontend/dist/ || echo "frontend/dist/ does not exist yet"
-        echo "Copying data to frontend/dist..."
-        cp -rv data/ frontend/dist/
+        echo "Force copying data to frontend/dist..."
+        cp -rfv data/ frontend/dist/
         echo "After copy - frontend/dist/ contents:"
         ls -la frontend/dist/
         echo "Data files in frontend/dist/data/:"
         ls -la frontend/dist/data/ || echo "No data files found"
+        echo "Verifying copied file timestamps:"
+        stat frontend/dist/data/dailydev.json || echo "dailydev.json not found in dist"
+        stat frontend/dist/data/devto.json || echo "devto.json not found in dist"
 
     - name: Deploy to GitHub Pages
       run: |
