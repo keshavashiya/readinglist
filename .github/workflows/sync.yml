@@ -16,7 +16,7 @@ permissions:
   contents: write
 
 jobs:
-  sync:
+  sync-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -30,7 +30,9 @@ jobs:
         cache: 'npm'
 
     - name: Install dependencies
-      run: npm i
+      run: |
+        npm ci
+        cd frontend && npm ci
 
     - name: Create data directory
       run: mkdir -p data
@@ -65,26 +67,6 @@ jobs:
         echo "File timestamps:"
         ls -la data/
         echo "Current time: $(date -u)"
-
-  deploy:
-    needs: sync
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '18'
-        cache: 'npm'
-
-    - name: Install dependencies
-      run: |
-        npm ci
-        cd frontend && npm ci
 
     - name: Set Git identity
       run: |
