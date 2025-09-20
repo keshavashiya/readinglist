@@ -1,0 +1,433 @@
+{
+  "last_updated": "2025-09-20T08:14:42.866Z",
+  "count": 20,
+  "articles": [
+    {
+      "id": "KB42npGNW",
+      "title": "No title",
+      "description": "",
+      "url": "https://app.daily.dev/posts/KB42npGNW?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-08-28T02:55:27.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "devtools",
+        "productivity",
+        "cli"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "YN4j7TWL0",
+      "title": "How to Design Structured Database Systems Using SQL [Full Book]",
+      "description": "",
+      "url": "https://app.daily.dev/posts/YN4j7TWL0?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-08-17T14:04:28.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "database",
+        "sql",
+        "postgresql"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "abWUsXD2t",
+      "title": "No title",
+      "description": "",
+      "url": "https://app.daily.dev/posts/abWUsXD2t?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-07-13T17:12:08.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "ai",
+        "devtools",
+        "mcp",
+        "open-source"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "zR9B0rI7P",
+      "title": "jackjackbits/bitchat: bluetooth mesh chat, IRC vibes",
+      "description": "",
+      "url": "https://app.daily.dev/posts/zR9B0rI7P?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-07-13T09:18:47.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "ios",
+        "swift",
+        "encryption",
+        "bluetooth"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "uiDVu7GyD",
+      "title": "Automate, Curate, Share: Building an Open Source Reading List",
+      "description": "",
+      "url": "https://app.daily.dev/posts/uiDVu7GyD?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-07-12T16:25:04.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "CBcld4cHT",
+      "title": "The Ultimate Roadmap to Become a Data Engineer in 2025 (With Free Resources)",
+      "description": "",
+      "url": "https://app.daily.dev/posts/CBcld4cHT?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-07-08T03:28:43.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "cloud",
+        "python",
+        "sql",
+        "data-engineering",
+        "apache-spark"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "DapUMoeAj",
+      "title": "Build & Sell n8n AI Agents (8+ Hour Course, No Code)",
+      "description": "",
+      "url": "https://app.daily.dev/posts/DapUMoeAj?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-06-01T14:12:53.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "ai-agents",
+        "automation",
+        "n8n",
+        "nocode",
+        "openai"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "r6yaNkYL4",
+      "title": "15 rust cli tools that will make you abandon bash scripts forever",
+      "description": "",
+      "url": "https://app.daily.dev/posts/r6yaNkYL4?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-05-22T12:58:21.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "devtools",
+        "productivity",
+        "rust",
+        "cli"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "2weGGGQAK",
+      "title": "Multi-tenant SaaS apps with Next.js and Vercel",
+      "description": "",
+      "url": "https://app.daily.dev/posts/2weGGGQAK?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-05-15T03:15:35.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "webdev",
+        "react",
+        "nextjs",
+        "vercel"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "0MRZR2Nfd",
+      "title": "No title",
+      "description": "",
+      "url": "https://app.daily.dev/posts/0MRZR2Nfd?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-04-30T14:44:10.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "tech-news",
+        "career"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "Ct93xhxHz",
+      "title": "Understand and Code DeepSeek V3",
+      "description": "",
+      "url": "https://app.daily.dev/posts/Ct93xhxHz?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-04-05T12:20:32.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "ai",
+        "machine-learning",
+        "deep-learning",
+        "nlp"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "iCf2u4Cdt",
+      "title": "The 7 Most Influential Papers in Computer Science History",
+      "description": "",
+      "url": "https://app.daily.dev/posts/iCf2u4Cdt?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-01-24T13:10:01.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "algorithms",
+        "computer-science"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "1Oxs0qY2X",
+      "title": "Learning JavaScript & Typescripts Series' Articles",
+      "description": "",
+      "url": "https://app.daily.dev/posts/1Oxs0qY2X?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2025-01-18T17:37:15.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "webdev",
+        "javascript",
+        "typescript"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "zFMSrBTeY",
+      "title": "Complete Guide to Building Authorization Systems using RBAC, ReBAC and ABAC",
+      "description": "",
+      "url": "https://app.daily.dev/posts/zFMSrBTeY?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2024-10-17T12:37:31.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "backend",
+        "authentication",
+        "authorization"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "Di1MJjYXg",
+      "title": "🎉 Finally! Official launch of the Gowebly project on ProductHunt",
+      "description": "",
+      "url": "https://app.daily.dev/posts/Di1MJjYXg?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2024-07-30T14:51:14.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "cli",
+        "javascript",
+        "webdev"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "00mvstChC",
+      "title": "System Design — Tips. Designing a robust and scalable system…",
+      "description": "",
+      "url": "https://app.daily.dev/posts/00mvstChC?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2024-07-22T17:29:55.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "webdev",
+        "career",
+        "database",
+        "architecture"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "97Uz0WW3B",
+      "title": "mehdihadeli/awesome-software-architecture: 🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.",
+      "description": "",
+      "url": "https://app.daily.dev/posts/97Uz0WW3B?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2024-07-03T05:56:51.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "cloud",
+        "devops",
+        "architecture",
+        "design-patterns"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "LMEtDTok6",
+      "title": "sindresorhus/awesome-nodejs: :zap: Delightful Node.js packages and resources",
+      "description": "",
+      "url": "https://app.daily.dev/posts/LMEtDTok6?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2024-06-06T16:23:43.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "security",
+        "testing",
+        "database",
+        "nodejs",
+        "logging",
+        "encryption",
+        "functional-programming"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "dqcdQCR2L",
+      "title": "Getting Started with Rust",
+      "description": "",
+      "url": "https://app.daily.dev/posts/dqcdQCR2L?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2024-05-12T08:13:26.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "data-science",
+        "rust"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    },
+    {
+      "id": "J1ClTfCFR",
+      "title": "How we reduced our React monorepo CI time by 70%",
+      "description": "",
+      "url": "https://app.daily.dev/posts/J1ClTfCFR?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2024-05-07T14:23:34.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "react",
+        "cicd"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2025-09-20T08:14:42.864Z"
+    }
+  ]
+}
