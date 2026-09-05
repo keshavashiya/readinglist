@@ -1,0 +1,430 @@
+{
+  "last_updated": "2026-09-05T11:30:03.353Z",
+  "count": 20,
+  "articles": [
+    {
+      "id": "00fF6RtH4",
+      "title": "Day 29/30 AWS System Design Patterns",
+      "description": "",
+      "url": "https://daily.dev/posts/00fF6RtH4?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-02T17:54:20.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "aws",
+        "career",
+        "database",
+        "aws-lambda"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "W3ts5p7yS",
+      "title": "Meet World: the 3D place your reading builds",
+      "description": "",
+      "url": "https://daily.dev/posts/W3ts5p7yS?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-02T17:54:17.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "ai-agents",
+        "dailydev"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "6xQ0a75YD",
+      "title": "No title",
+      "description": "",
+      "url": "https://daily.dev/posts/6xQ0a75YD?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-02T17:54:13.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "javascript",
+        "performance",
+        "typescript",
+        "zod"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "ZshlHvRvq",
+      "title": "Day 27/30 AWS System Design Patterns",
+      "description": "",
+      "url": "https://daily.dev/posts/ZshlHvRvq?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-29T02:15:55.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "aws",
+        "career",
+        "data-engineering"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "UdwQ79LxW",
+      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+      "description": "",
+      "url": "https://daily.dev/posts/UdwQ79LxW?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-29T02:14:30.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "rust",
+        "cloudflare",
+        "dns"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "NlDkpi0ti",
+      "title": "No title",
+      "description": "",
+      "url": "https://daily.dev/posts/NlDkpi0ti?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-29T02:10:56.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "golang"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "XjhJvvizq",
+      "title": "Built this to replace my personal tracking spreadsheets. No backend, no signup — data stays in your browser.\n\nWhat do you still track in spreadsheets that deserves a proper app?",
+      "description": "",
+      "url": "https://daily.dev/posts/XjhJvvizq?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-27T13:22:49.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "webdev",
+        "nextjs",
+        "tailwind-css",
+        "shadcn"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "faI8S2EDa",
+      "title": "No title",
+      "description": "",
+      "url": "https://daily.dev/posts/faI8S2EDa?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-27T13:22:39.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "nodejs",
+        "rust",
+        "markdown"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "WHpUjfk9a",
+      "title": "No title",
+      "description": "",
+      "url": "https://daily.dev/posts/WHpUjfk9a?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-27T13:10:31.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "git",
+        "version-control"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "JhGIAf4vu",
+      "title": "gRPC-Rust Roadmap",
+      "description": "",
+      "url": "https://daily.dev/posts/JhGIAf4vu?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-27T13:09:53.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "backend",
+        "rust",
+        "grpc"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "e9QcZtvSH",
+      "title": "No title",
+      "description": "",
+      "url": "https://daily.dev/posts/e9QcZtvSH?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-27T13:09:01.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "llm",
+        "backend",
+        "sql"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "cmGv6Kytm",
+      "title": "Day 28/30 AWS System Design Patterns",
+      "description": "",
+      "url": "https://daily.dev/posts/cmGv6Kytm?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-27T13:08:34.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "aws",
+        "career",
+        "serverless",
+        "distributed-systems",
+        "aws-lambda"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "uMVF9J8Fc",
+      "title": "No title",
+      "description": "",
+      "url": "https://daily.dev/posts/uMVF9J8Fc?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-26T14:46:58.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "devtools",
+        "rust",
+        "git",
+        "cli"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "22u3jffNo",
+      "title": "Skills For Real Engineers: How to Keep Claude Code and AI Tools From Ruining Your Architecture",
+      "description": "",
+      "url": "https://daily.dev/posts/22u3jffNo?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-26T14:46:39.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "architecture",
+        "ai-agents",
+        "claude-code",
+        "vibe-coding",
+        "tdd"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "QFTVKmF5z",
+      "title": "Is AI going to steal my job as a design engineer?",
+      "description": "",
+      "url": "https://daily.dev/posts/QFTVKmF5z?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-26T14:46:32.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "career",
+        "ai-coding"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "6rsCcGpZn",
+      "title": "The AI-Native SDLC Playbook by Anthropic for Developers!",
+      "description": "",
+      "url": "https://daily.dev/posts/6rsCcGpZn?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-26T14:46:30.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "ai-agents",
+        "claude",
+        "anthropic"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "pun5MDgRz",
+      "title": "Day 24/30 — Profile Before Optimising",
+      "description": "",
+      "url": "https://daily.dev/posts/pun5MDgRz?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-26T14:46:23.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "performance",
+        "nodejs",
+        "observability",
+        "nestjs"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "gBFJZmvxK",
+      "title": "Apple's New M6 and M5 Pro Mac Minis Push Local AI Performance",
+      "description": "",
+      "url": "https://daily.dev/posts/gBFJZmvxK?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-26T14:46:20.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "apple",
+        "local-ai"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "90hb0NeVt",
+      "title": "terminal-code",
+      "description": "",
+      "url": "https://daily.dev/posts/90hb0NeVt?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-23T01:21:20.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "open-source",
+        "cli",
+        "vscode"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    },
+    {
+      "id": "rvhckQyqm",
+      "title": "Day 25/30 AWS System Design Patterns",
+      "description": "",
+      "url": "https://daily.dev/posts/rvhckQyqm?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-08-22T00:43:59.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "aws",
+        "career",
+        "serverless",
+        "aws-lambda"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-09-05T11:30:03.351Z"
+    }
+  ]
+}
