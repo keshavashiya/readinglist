@@ -1,0 +1,429 @@
+{
+  "last_updated": "2026-10-01T14:57:05.163Z",
+  "count": 20,
+  "articles": [
+    {
+      "id": "ltgM6PNdS",
+      "title": "OpenAI's DevDay reshapes the agent stack, Nvidia's safety platform ships without OpenAI",
+      "description": "",
+      "url": "https://daily.dev/posts/ltgM6PNdS?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-30T19:25:36.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "ai-agents",
+        "openai",
+        "nvidia",
+        "anthropic",
+        "ai-safety"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "J8SEEOT1U",
+      "title": "GPT-6.1 Sol launches at a fraction of GPT-6 Astra's price; early Three.js demo shows off Astra's code mode",
+      "description": "",
+      "url": "https://daily.dev/posts/J8SEEOT1U?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-30T19:25:33.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "llm",
+        "openai",
+        "gpt",
+        "threejs"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "ydElYzcHx",
+      "title": "No title",
+      "description": "",
+      "url": "https://daily.dev/posts/ydElYzcHx?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-30T19:25:31.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "open-source",
+        "devtools",
+        "privacy"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "ZLxUqEYKa",
+      "title": "Announcing Tauri 2.12",
+      "description": "",
+      "url": "https://daily.dev/posts/ZLxUqEYKa?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-27T16:12:00.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "android",
+        "rust",
+        "gradle",
+        "tauri"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "nkV09W80e",
+      "title": "Advice to a beginning software engineer",
+      "description": "",
+      "url": "https://daily.dev/posts/nkV09W80e?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-27T16:11:58.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "career",
+        "ai-coding"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "c1d2Hvwi4",
+      "title": "The Python documentation is now available in German",
+      "description": "",
+      "url": "https://daily.dev/posts/c1d2Hvwi4?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-27T16:11:46.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "python",
+        "open-source"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "i5EP9vNAL",
+      "title": "Vincent 0.10.0: Less Hype, More Reliability for Agentic Development",
+      "description": "",
+      "url": "https://daily.dev/posts/i5EP9vNAL?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-24T12:03:15.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "open-source",
+        "devtools",
+        "ai-coding",
+        "claude-code",
+        "openai-codex"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "erwx3DPd2",
+      "title": "Built for AI agents, not just you.",
+      "description": "",
+      "url": "https://daily.dev/posts/erwx3DPd2?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-24T12:02:57.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "ai-agents",
+        "rust",
+        "cli",
+        "mcp"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "w5wOmbYN3",
+      "title": "How We Deployed, Maintained, and Migrated Production n8n on EKS",
+      "description": "",
+      "url": "https://daily.dev/posts/w5wOmbYN3?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-24T12:02:44.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "aws",
+        "kubernetes",
+        "helm",
+        "n8n"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "c1HTD0B7y",
+      "title": "Daily.snek - Python SDK for Daily.dev API",
+      "description": "",
+      "url": "https://daily.dev/posts/c1HTD0B7y?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-24T12:02:38.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "python",
+        "dailydev"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "Z4AndgcGu",
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "description": "",
+      "url": "https://daily.dev/posts/Z4AndgcGu?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-24T12:02:34.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "github",
+        "infrastructure"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "3QQOokzpS",
+      "title": "Node.js — Node.js 22.23.3 (LTS)",
+      "description": "",
+      "url": "https://daily.dev/posts/3QQOokzpS?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-24T12:02:26.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "nodejs",
+        "cryptography",
+        "npm"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "0NldkHeSc",
+      "title": "AI can make us faster while quietly weakening the skills we stop practicing. I reviewed the research on productivity, learning, creativity, jobs, and programming. https://blog.jenuel.dev/blog/ai-is-making-us-more-capable-is-it-making-us-less-capable-too",
+      "description": "",
+      "url": "https://daily.dev/posts/0NldkHeSc?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-24T12:02:22.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "ai",
+        "github",
+        "future-of-work"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "xHYxfJOpV",
+      "title": "No title",
+      "description": "",
+      "url": "https://daily.dev/posts/xHYxfJOpV?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-24T12:02:04.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "rust",
+        "cli",
+        "markdown"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "fHIiCRxbK",
+      "title": "How to Use Jev Properly: Three Systems the Demos Skipped",
+      "description": "",
+      "url": "https://daily.dev/posts/fHIiCRxbK?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-24T12:02:01.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "typescript",
+        "ai-engineering"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "PUw9tfPLf",
+      "title": "No title",
+      "description": "",
+      "url": "https://daily.dev/posts/PUw9tfPLf?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-24T12:00:33.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "devtools",
+        "golang",
+        "cli"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "zG2dysSxt",
+      "title": "Claude Opus 5.5 hits Fable-level performance at 40% lower cost",
+      "description": "",
+      "url": "https://daily.dev/posts/zG2dysSxt?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-24T12:00:30.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "ai",
+        "ai-coding",
+        "claude",
+        "anthropic",
+        "appwrite"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "bpxU23Bgv",
+      "title": "Abandoning Scientific Linux Was a Mistake",
+      "description": "",
+      "url": "https://daily.dev/posts/bpxU23Bgv?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-24T12:00:28.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "linux"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "bXi3sAGRX",
+      "title": "No title",
+      "description": "",
+      "url": "https://daily.dev/posts/bXi3sAGRX?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-19T15:58:48.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "linux",
+        "window-manager",
+        "dotfiles"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    },
+    {
+      "id": "HbyPu1fbZ",
+      "title": "No title",
+      "description": "",
+      "url": "https://daily.dev/posts/HbyPu1fbZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=c8e54637d3ee4126a9c503737169de61",
+      "published_at": "2026-09-19T15:58:43.000Z",
+      "reading_time": null,
+      "author": {
+        "name": "Unknown",
+        "username": null,
+        "profile_image": null
+      },
+      "tags": [
+        "aws",
+        "distributed-systems",
+        "aws-dynamodb"
+      ],
+      "cover_image": null,
+      "source": "daily.dev",
+      "saved_at": "2026-10-01T14:57:05.160Z"
+    }
+  ]
+}
